@@ -1,1 +1,1 @@
-# ci-cd-student-project
+[![.github/workflows/ci.yml](https://github.com/antipilys-sketch/ci-cd-student-project/actions/workflows/ci.yml/badge.svg)](https://github.com/antipilys-sketch/ci-cd-student-project/actions/workflows/ci.yml)
